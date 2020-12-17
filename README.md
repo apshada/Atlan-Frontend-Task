@@ -1,4 +1,4 @@
-# # Atlan Frontend Task
+## Atlan Frontend Task
 IPL discovery page
 imported csv data
 implemented pagination
